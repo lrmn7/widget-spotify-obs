@@ -38,7 +38,6 @@ export default {
       'If you want to create, for example, a "!song" command using a Twitch bot, just use the GET url from the api below. The answer will be a text with the current song.',
     "issues.text": "Having issues?",
     "relogin_button.text": "Reconnect with Spotify",
-    built_with: "build with",
     built_with: "built with",
     by_lrmn: "by {instagram}",
     icons_credits: "Icons by {freepik} from {flaticon}",
